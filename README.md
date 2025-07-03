@@ -3,7 +3,7 @@
 ### A fun web app to encrypt and decrypt messages using emojis.
 
 <!-- Badges pointing to your live site and license -->
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://lighthearted-buttercream-d830ea.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://secretchatkl.netlify.app/)
 
 A simple web application that converts your text messages into a creative format of emojis. It's perfect for adding a layer of visual privacy to your conversations, sharing casual secrets, or just having fun with coded messages. This project was inspired by making communication both secure and entertaining.
 
